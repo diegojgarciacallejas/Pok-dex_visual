@@ -3,8 +3,11 @@
 **Autores:** 
 - Diego José García Callejas · dj.garcia.callejas@alumnos.upm.es
 - Héctor Fernández  Cano · hector.fernandez@alumnos.upm.es
+- 
 **Grado:** Grado en Ciencia de Datos e Inteligencia Artificial (UPM)
+  
 **Asignatura:** Algoritmos y Arquitecturas para Procesado de Imágenes · Curso 2026–2027
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](URL_DEL_NOTEBOOK_EN_COLAB)
 
 ## Descripción del reto
