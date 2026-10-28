@@ -1,4 +1,13 @@
+<p align="center">
+  <img src="docs/banner.png" alt="Pokédex visual" width="100%">
+</p>
+
 # Pokédex visual · Reto 1
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
+![CLIP](https://img.shields.io/badge/CLIP-ViT--B%2F32-orange)
+![FAISS](https://img.shields.io/badge/FAISS-index-blue)
+![License](https://img.shields.io/badge/code-MIT-green)
+![Dataset](https://img.shields.io/badge/dataset-CC%20BY%204.0-lightgrey)
 
 **Autores:** 
 - Diego José García Callejas · dj.garcia.callejas@alumnos.upm.es
@@ -8,7 +17,9 @@
   
 **Asignatura:** Algoritmos y Arquitecturas para Procesado de Imágenes · Curso 2026–2027
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](URL_DEL_NOTEBOOK_EN_COLAB)
+**El cuaderno principal se abre aquí:**
+
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](URL_DEL_NOTEBOOK_EN_COLAB)
 
 ## Descripción del reto
 ¿Se puede adivinar el tipo de un Pokémon solo con mirarlo? Este proyecto trata las imágenes como datos visuales para predecir `Type1` y `Type2`, y responde a dos preguntas: **qué tipos son indistinguibles a la vista** y **qué Pokémon es el peor clasificado y por qué**.
