@@ -1,8 +1,10 @@
 # Pokédex visual · Reto 1
 
-**Autores:** [Nombre y apellidos 1] y [Nombre y apellidos 2]
-Algoritmos y Arquitecturas para Procesado de Imágenes · Grado en Ciencia de Datos e IA · UPM · Curso 2026–2027
-
+**Autores:** 
+- Diego José García Callejas · dj.garcia.callejas@alumnos.upm.es
+- Héctor Fernández  Cano · hector.fernandez@alumnos.upm.es
+**Grado:** Grado en Ciencia de Datos e Inteligencia Artificial (UPM)
+**Asignatura:** Algoritmos y Arquitecturas para Procesado de Imágenes · Curso 2026–2027
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](URL_DEL_NOTEBOOK_EN_COLAB)
 
 ## Descripción del reto
